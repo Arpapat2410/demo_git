@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookstore>
+    <book category = "food">
+        <title lang="en">Everyday Italine</title>
+        <author>Giada De Laurentis</author>
+        <year>2005</year>
+        <price>30.00</price>
+    </book>
+</bookstore>
